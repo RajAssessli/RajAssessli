@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A Front-End Developer at Assessli</h3>
-<div align="center"> <img src="https://i.pinimg.com/originals/0d/e9/ad/0de9adc89c59a02967fab2d37292274a.gif"/></div>
+<div align="center"> <img src="/source.gif"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajassessli&label=Profile%20views&color=0e75b6&style=flat" alt="rajassessli" /> </p>
 
